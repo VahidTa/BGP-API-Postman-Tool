@@ -4,6 +4,7 @@
 - [Abstract](#abstract)
 - [Intended Audience](#intended-audience)
 - [What’s in the SDK?](#whats-in-the-sdk)
+- [Instruction](#instruction)
 - [Suggested Information](#suggested-information)
 
 ## Abstract
@@ -17,12 +18,11 @@ The BGP API Postman tool is useful for service providers to retrieve information
 
 BGP API Postman tool contains +40 API requests. Inside each request, there is specific parameters to filter based on requirements. Each request has detailed description per parameter. Also, each request contains an example of API request.
 
-Directory structure:
-
-|Directory	                      |Contents                                                                            |
-|---------------------------------|------------------------------------------------------------------------------------|
-|[Postman](Postman)	          | Postman samples that demonstrate how to construct API requests for RIPE information. |
-
+## Instruction
+1- Download the file in this reposistory [BGP-API-Postman-Tool](Postman).
+2- Open postman software [Download Postman](https://www.getpostman.com).
+3- Inside postman software, in collection tab, click on import button, and select the downloaded file in step one.
+4- Enjoy using it.
 
 ## Suggested Information
 
