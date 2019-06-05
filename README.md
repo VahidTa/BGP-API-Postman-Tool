@@ -26,7 +26,7 @@ BGP API Postman tool contains +40 API requests. Inside each request, there is sp
 
 or<br>
 
-Just import it to your Postman using [BGP-API-Postman-Tool](Postman) link.\
+Just import it to your Postman using [BGP-API-Postman-Tool.json](Postman/BGP%20API%20Tool.json	) link.\
 <br>
 ![Imported](Postman/Imported%20SDK.png)
 
