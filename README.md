@@ -22,7 +22,7 @@ BGP API Postman tool contains +40 API requests. Inside each request, there is sp
 1- Download the file in this reposistory [BGP-API-Postman-Tool](Postman).\
 2- Open postman software [Download Postman](https://www.getpostman.com).\
 3- Inside postman software, in collection tab, click on import button, and select the downloaded file on step one.\
-4- Enjoy using it.\
+4- Enjoy using it.
 
 or<br>
 
